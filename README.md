@@ -68,6 +68,9 @@ the built-in picture library covers most everyday words.
 
 The app's own code is under the MIT License — see `LICENSE` (copyright
 Cody Waidelich). Third-party model and picture terms are in `NOTICE.md`.
+## How this started
+
+I built this with AI — a lot of prompts on the free tools — after talking with the therapy department at our school. They needed a way to make 3D tags, and I couldn't find an easy offline way to just make a bunch of them. So I started building one, and it snowballed from there.
 
 ## Status
 
