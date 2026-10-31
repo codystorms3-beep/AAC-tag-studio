@@ -1,0 +1,14 @@
+numpy
+opencv-python-headless
+shapely
+trimesh
+mapbox-earcut
+matplotlib
+Pillow
+customtkinter
+requests
+keyring  # optional: keeps the Anthropic API key in the OS credential store instead of a plain file
+resvg-py>=0.3,<1.0  # optional: rasterizes Mulberry SVG symbols to PNG (prebuilt wheel, no system libs)
+pymupdf  # REQUIRED: PDF Studio's PDF Viewer + Editor (open, rearrange, stamp, save) and "Import a board" PDF reading
+PyOpenGL  # v15.46: OpenGL 3D preview (bindings)
+pyopengltk  # v15.46: OpenGL 3D preview (tkinter frame)
